@@ -1,0 +1,8 @@
+ref: 
+- https://youtu.be/ermKvCAtiKA
+
+tech: 
+- react + vite
+
+front:
+- npm run dev
